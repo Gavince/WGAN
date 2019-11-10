@@ -1,0 +1,8 @@
+torchsnooper
+fire
+tqdm
+torchvision
+torchnet
+numpy
+tensorboardX
+torch
